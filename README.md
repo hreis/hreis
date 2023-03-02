@@ -3,7 +3,7 @@
 FullStack Senior Engineer.
 
 [![Twitter Badge](https://img.shields.io/badge/-%40zhugoreis-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/zhugoreis)](https://twitter.com/zHugoReis) 
-[![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Reis-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/hreis-dev/)](www.linkedin.com/in/hreis-dev/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Reis-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hreis-dev/)](https://www.linkedin.com/in/hreis-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-hugo.carvalho.reis@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugo.carvalho.reis@gmail.com)](mailto:hugo.carvalho.reis@gmail.com)
 
 Enthusiast of the best web development technologies.
